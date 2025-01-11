@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Knowledgecheck2sl/1.0.0": {
+        "runtime": {
+          "Knowledgecheck2sl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Knowledgecheck2sl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
